@@ -52,4 +52,4 @@ The goal of this project is to analyze sales performance, visualize key metrics,
 ## About Me
 - 🌐 [https://www.linkedin.com/in/govhar-orujova-64333b369/]  
 - 🐙 [https://github.com/GovharOrujova]  
-- ✉ [orucovagovhar@outlook.com]  
+- ✉ [govharorucova@outlook.com]  
