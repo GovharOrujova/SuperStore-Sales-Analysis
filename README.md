@@ -29,6 +29,13 @@ The goal of this project is to analyze sales performance, visualize key metrics,
 ---
 
 ## 📈 Outputs
+## Dashboard Outputs
+
+### Sales Dashboard - Page 1
+![Dashboard Page 1](image1.png)
+
+### Sales Dashboard - Page 2
+![Dashboard Page 2](image2.png)
 - *KPIs:* 22K Orders, 1.6M Sales, 175K Profit, Avg. Ship Time: 4 days  
 - *Regional Sales:* West leads with 33% share  
 - *Top-selling product groups:* Phones, Chairs, Binders  
